@@ -9,12 +9,12 @@ tmp/
 
 # Compiled Output #
 ###################
-dist/
-build/
-tmp/
-publish/
-var/
-bundle.js
+# dist/
+# build/
+# tmp/
+# publish/
+# var/
+# bundle.js
 
 
 # IDEs & Editors #
