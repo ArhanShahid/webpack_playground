@@ -1,6 +1,9 @@
-$bg : green;
+$bg : gray;
 
 body{
     background-color: $bg;
     padding: 10px;
+}
+p{
+    font-size: responsive;
 }
