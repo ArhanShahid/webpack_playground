@@ -1,9 +1,10 @@
-$bg : gray;
-
-body{
+@import 'variables';
+body {
     background-color: $bg;
     padding: 10px;
 }
-p{
+
+p {
+    display: flex;
     font-size: responsive;
 }
